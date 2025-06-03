@@ -10,3 +10,4 @@ mod ideas for vintage story
    d. a trait menu
    e. a skill display
 6. dungeon crawler loot items
+7. deserts mod, ice cream, the works
