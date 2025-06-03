@@ -11,3 +11,9 @@ mod ideas for vintage story
    e. a skill display
 6. dungeon crawler loot items
 7. deserts mod, ice cream, the works
+7. outgoing damage, it'd be also nice to have the numbers show over the creatures head
+8. damage type and status effect, piercing, blunt chance of stun, daze on head and slow on hitting legs, slashing bleed effect limbs chance to cripple, 
+9. if animal is bleeding, it should show a trail of blood
+10. tracking skill, can see footprints of an animal as it gets closer becomes more red
+11. xSkills is nice, but it'd be nicer if doing the skills also increased the stats
+    
